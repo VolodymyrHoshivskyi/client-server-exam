@@ -1,0 +1,8 @@
+soap\model\Restaurant.class
+soap\service\Service.class
+soap\resource\RestaurantResource.class
+soap\service\ServiceInterface.class
+soap\model\Guest.class
+soap\client\Client.class
+soap\db\DatabaseClass.class
+soap\resource\GuestsResource.class
